@@ -1,0 +1,14 @@
+body{
+    background-color: antiquewhite;
+    color: black;
+    width: 500px;
+    margin: 30px auto;
+}
+a{
+    text-align: center;
+    display: block;
+    text-decoration: none;
+    background-color: blueviolet;
+    color: aliceblue;
+    padding: 10px 50px;
+}
